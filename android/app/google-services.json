@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "656825602605",
+    "project_id": "tonycab-62898",
+    "storage_bucket": "tonycab-62898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656825602605:android:5bd2b38e685068fc0c5ea4",
+        "android_client_info": {
+          "package_name": "com.tonye.cabhailing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656825602605-g9702p70cuki9gmniqncvhs2v4oplrrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMmkokCTCMBpTP3o5jrlTNCwixpWNjzwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656825602605-g9702p70cuki9gmniqncvhs2v4oplrrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
